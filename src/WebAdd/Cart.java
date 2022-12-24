@@ -6,4 +6,7 @@ public class Cart {
     //total
     //promo code
 
+    // payment types
+
+
 }
